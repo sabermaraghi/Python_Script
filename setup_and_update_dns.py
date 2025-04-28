@@ -18,6 +18,8 @@ SCRIPT_PATH = "/usr/local/bin/setup_and_update_dns.py"
 DNS_SERVERS = [
     "1.1.1.1",        # Cloudflare
     "1.0.0.1",        # Cloudflare
+    "65.109.209.224"  # server.ir
+    "65.109.177.244"  # server.ir
     "172.20.20.16",   # Hamrah-Mechanic
     "85.15.1.14",     # Shatel
     "85.15.1.15",     # Shatel
